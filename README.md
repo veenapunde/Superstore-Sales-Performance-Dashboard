@@ -2,28 +2,37 @@
 Interactive Sales Dashboard built using Power BI for data visualization and business insights analysis.
 
 ## Project Overview
-This project focuses on analyzing Superstore sales data and building an interactive dashboard using Power BI.
+Developed an interactive Power BI dashboard to analyze Superstore sales data and identify business insights related to sales, profit, customer segments, and product performance.
 
-## Tools Used
+## Tools & Technologies
 - Power BI
+- Data Visualization
 - CSV Dataset
+- Data Cleaning
+- Business Analytics
 
-## Dashboard Features
-- Total Sales Analysis
-- Profit Margin Analysis
-- Total Orders
-- Average Sales
-- Regional Sales Performance
-- Monthly Sales Trend
-- Top 10 Revenue Generating Products
-- Sales by Customer Segment
-- Profit by Category
+## Dashboard KPIs
+- Total Sales: 2.30M
+- Total Quantity: 38K
+- Profit Margin: 12.47%
+- Total Profit: 286.40K
+- Total Orders: 5K
+- Average Sales: 229.86
 
-## Key Insights
-- West region has highest sales.
-- Technology category generated highest profit.
-- Consumer segment contributes the highest sales.
-- Monthly sales increased significantly in November.
+## Dashboard Insights
+- West region generated highest sales performance.
+- Technology category contributed highest profit.
+- Consumer segment has maximum contribution in sales.
+- November showed peak monthly sales trend.
+- Top 10 products generated major revenue contribution.
+
+## Visualizations Used
+- KPI Cards
+- Bar Chart
+- Line Chart
+- Donut Chart
+- Category Profit Analysis
+- Interactive Filters (Region, Year, Category)
 
 ## Outcome
-Learned data visualization and storytelling using Power BI.
+This project helped in understanding data storytelling, dashboard designing, KPI tracking, and business decision analysis using Power BI.
